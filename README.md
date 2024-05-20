@@ -1,4 +1,4 @@
-# Vrinda_Store_Analytics-Dashboard
+# Vrinda_Store_Data_Analytics-Dashboard
 Vrinda Store Data Analytics
 Sample Insights
 
